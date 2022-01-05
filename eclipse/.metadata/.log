@@ -57,3 +57,51 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2022-01-05 16:48:08.782
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-05 16:49:18.590
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-05 16:49:18.592
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@76f63cb0[org.springframework.tooling.boot.ls:1.29.0.202112031705(id=974)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-05 16:49:18.598
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-05 16:49:18.648
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-05 16:49:21.241
+!MESSAGE Boot LS startup time from start to initialized: 2628ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-05 16:49:21.365
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.adtzNcvlisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-05 16:49:21.368
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-05 16:49:21.370
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-05 16:49:21.370
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-05 16:49:21.371
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-05 16:49:21.371
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.adtzNcvl => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-05 16:49:21.373
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-05 16:49:21.374
+!MESSAGE buffering callback sts4.classpath.adtzNcvl MulChat false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-05 16:49:21.374
+!MESSAGE executing callback sts4.classpath.adtzNcvl 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-05 16:49:21.663
+!MESSAGE executing callback sts4.classpath.adtzNcvl SUCCESS [done]
