@@ -101,7 +101,7 @@ class ClientHandler implements Runnable
         }
         try
         {
-            // closing resources
+          
             this.dis.close();
             this.dos.close();
              
