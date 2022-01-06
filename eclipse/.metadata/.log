@@ -1041,3 +1041,63 @@ java.lang.InterruptedException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-06 16:06:28.887
 !MESSAGE executing callback sts4.classpath.tEAROeha SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-06 16:12:18.155
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-06 16:12:18.178
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-06 16:12:18.179
+!MESSAGE buffering callback sts4.classpath.tEAROeha chatsocket false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-06 16:12:18.180
+!MESSAGE executing callback sts4.classpath.tEAROeha 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-06 16:12:18.191
+!MESSAGE executing callback sts4.classpath.tEAROeha SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-06 16:12:18.371
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-06 16:12:18.372
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-06 16:12:18.373
+!MESSAGE buffering callback sts4.classpath.tEAROeha chatsocket false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-06 16:12:18.373
+!MESSAGE executing callback sts4.classpath.tEAROeha 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-06 16:12:18.378
+!MESSAGE executing callback sts4.classpath.tEAROeha SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-06 16:13:02.266
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-06 16:13:02.267
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-06 16:13:02.268
+!MESSAGE buffering callback sts4.classpath.tEAROeha duplicate false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-06 16:13:02.269
+!MESSAGE executing callback sts4.classpath.tEAROeha 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-06 16:13:02.280
+!MESSAGE executing callback sts4.classpath.tEAROeha SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-06 16:13:02.497
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-06 16:13:02.498
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-06 16:13:02.499
+!MESSAGE buffering callback sts4.classpath.tEAROeha duplicate false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-06 16:13:02.500
+!MESSAGE executing callback sts4.classpath.tEAROeha 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-01-06 16:13:02.504
+!MESSAGE executing callback sts4.classpath.tEAROeha SUCCESS [done]
