@@ -2,6 +2,7 @@ package com.cal;
 
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.net.ServerSocket;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -19,7 +20,7 @@ public class Calsi extends HttpServlet {
     
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		//response.setContentType("html");
+		response.setContentType("html");
 		PrintWriter pr=null;
 		try {
 			
