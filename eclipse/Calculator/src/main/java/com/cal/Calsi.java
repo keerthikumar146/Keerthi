@@ -19,7 +19,7 @@ public class Calsi extends HttpServlet {
     
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		response.setContentType("html");
+		//response.setContentType("html");
 		PrintWriter pr=null;
 		try {
 			
@@ -45,6 +45,7 @@ public class Calsi extends HttpServlet {
 			pr.println("<br>");
 			pr.println("To Goto main Page<a href=cal.html>Click here</a>");
 			pr.println("</center>");
+			pr.close();
 		}
 	}
 
