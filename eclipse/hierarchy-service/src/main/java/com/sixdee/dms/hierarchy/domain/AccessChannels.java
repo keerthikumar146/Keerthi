@@ -19,11 +19,12 @@ import lombok.NoArgsConstructor;
 @Generated
 @Entity
 @Table(name = "SD_ACCESS_CHANNELS")
-@Cache(usage = CacheConcurrencyStrategy.NONSTRICT_READ_WRITE)
 @AllArgsConstructor
 @NoArgsConstructor
-public class SdAccessChannels implements Serializable {
+@Cache(usage = CacheConcurrencyStrategy.NONSTRICT_READ_WRITE)
+public class AccessChannels	 implements Serializable {
 	private static final long serialVersionUID = 1L;
+
 	
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -59,7 +60,4 @@ public class SdAccessChannels implements Serializable {
 	public void setStatus(int status) {
 		this.status = status;
 	}
-	
-	
-
 }

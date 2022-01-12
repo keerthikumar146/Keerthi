@@ -19,11 +19,11 @@ import lombok.NoArgsConstructor;
 @Generated
 @Entity
 @Table(name = "SD_APPLICATION_MODULES")
-@Cache(usage = CacheConcurrencyStrategy.NONSTRICT_READ_WRITE)
 @AllArgsConstructor
 @NoArgsConstructor
-public class SdApplicationModules implements Serializable {
-	private static final long serialVersionUID = 1L;
+@Cache(usage = CacheConcurrencyStrategy.NONSTRICT_READ_WRITE)
+public class ApplicationModules implements Serializable{
+private static final long serialVersionUID = 1L;
 	
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -49,6 +49,4 @@ public class SdApplicationModules implements Serializable {
 		this.name = name;
 	}
 	
-	
-
 }
